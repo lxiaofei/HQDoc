@@ -5,7 +5,7 @@
 软件支持window32位和windows64位系统
 
 # 百度云下载最新版本
-https://pan.baidu.com/s/184EAbcsnIJU2CXJwUC47Wg?pwd=9srp 提取码: 9srp
+https://pan.baidu.com/s/1kQRUfNy7Qo4f2pQydyZ0Kg?pwd=9ymj 提取码: 9ymj
 
 # 官网下载最新版本
 https://www.eu14.cn
