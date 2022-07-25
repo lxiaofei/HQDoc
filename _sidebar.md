@@ -16,6 +16,10 @@
     - [腾讯云参数注册](platform/tengxun/register.md)
     - [配音效果试听](platform/tengxun/listen.md)
     - [腾讯云参数说明](platform/tengxun/param.md) 
+  * 微软
+    - [微软参数注册](platform/weiruan/register.md)
+    - [微软语音价格](platform/weiruan/price.md)
+    - [微软风格说明](platform/weiruan/style.md)
 
 * 项目教程
   * [必备基础](project/0_base.md)
