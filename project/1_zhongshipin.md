@@ -18,15 +18,15 @@
 
 举例
 
-![image-20211106183452165](1-zhongshipin.assets/image-20211106183452165-6194893.png)
+![image-20211106183452165](1_zhongshipin.assets/image-20211106183452165-6194893.png)
 
 
 
-![image-20211106183536423](1-zhongshipin.assets/image-20211106183536423-6194937.png)
+![image-20211106183536423](1_zhongshipin.assets/image-20211106183536423-6194937.png)
 
 
 
-![image-20211106183648964](1-zhongshipin.assets/image-20211106183648964-6195010.png)
+![image-20211106183648964](1_zhongshipin.assets/image-20211106183648964-6195010.png)
 
 
 
@@ -34,7 +34,7 @@
 
 ####  视频素材：知乎搜 `高清无版权视频网站`
 
-![image-20211106182551539](1-zhongshipin.assets/image-20211106182551539-6194355.png)
+![image-20211106182551539](1_zhongshipin.assets/image-20211106182551539-6194355.png)
 
 ####  文案素材
 
@@ -61,7 +61,7 @@
 
 将每个文案一一保存好，为了有更好的观看效果，处理成一句一行，如果句子短，那就两句一行。
 如下效果
-![image-20211106183300250](1-zhongshipin.assets/image-20211106183300250.png)
+![image-20211106183300250](1_zhongshipin.assets/image-20211106183300250.png)
 
 #### 音乐素材
 
@@ -72,5 +72,5 @@
 
 视频片段合并+文案+音乐 批量制作
 
-!>[视频演示](https://www.bilibili.com/video/BV1qq4y13729/)
+
 
